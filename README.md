@@ -10,4 +10,4 @@
 `python ".livp to .heic.py`
 
 ## License
-* This project is licensed under the MIT License - see the LICENSE.md file for details
+* This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/O-GuanjieWang-O/Iphone_.livp_reader-/blob/main/LICENSE) file for details
